@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1498B664-11FA-4D01-9631-1CFF208DAD8D}|Countriestask\\Countriestask.csproj|c:\\users\\softlaptop\\desktop\\.net_projects\\countriestask\\countriestask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1498B664-11FA-4D01-9631-1CFF208DAD8D}|Countriestask\\Countriestask.csproj|solutionrelative:countriestask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1498B664-11FA-4D01-9631-1CFF208DAD8D}|Countriestask\\Countriestask.csproj|c:\\users\\softlaptop\\desktop\\.net_projects\\countriestask\\countriestask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1498B664-11FA-4D01-9631-1CFF208DAD8D}|Countriestask\\Countriestask.csproj|solutionrelative:countriestask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1498B664-11FA-4D01-9631-1CFF208DAD8D}|Countriestask\\Countriestask.csproj|c:\\users\\softlaptop\\desktop\\.net_projects\\countriestask\\countriestask\\repository\\blockcountriesrepo\\blockedcountryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1498B664-11FA-4D01-9631-1CFF208DAD8D}|Countriestask\\Countriestask.csproj|solutionrelative:countriestask\\repository\\blockcountriesrepo\\blockedcountryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1498B664-11FA-4D01-9631-1CFF208DAD8D}|Countriestask\\Countriestask.csproj|c:\\users\\softlaptop\\desktop\\.net_projects\\countriestask\\countriestask\\repository\\blockcountriesrepo\\iblockedcountryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1498B664-11FA-4D01-9631-1CFF208DAD8D}|Countriestask\\Countriestask.csproj|solutionrelative:countriestask\\repository\\blockcountriesrepo\\iblockedcountryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1498B664-11FA-4D01-9631-1CFF208DAD8D}|Countriestask\\Countriestask.csproj|c:\\users\\softlaptop\\desktop\\.net_projects\\countriestask\\countriestask\\repository\\logattemptrepo\\logrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{1498B664-11FA-4D01-9631-1CFF208DAD8D}|Countriestask\\Countriestask.csproj|c:\\users\\softlaptop\\desktop\\.net_projects\\countriestask\\countriestask\\repository\\logattemptrepo\\ilogrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1498B664-11FA-4D01-9631-1CFF208DAD8D}|Countriestask\\Countriestask.csproj|solutionrelative:countriestask\\repository\\logattemptrepo\\ilogrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1498B664-11FA-4D01-9631-1CFF208DAD8D}|Countriestask\\Countriestask.csproj|c:\\users\\softlaptop\\desktop\\.net_projects\\countriestask\\countriestask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1498B664-11FA-4D01-9631-1CFF208DAD8D}|Countriestask\\Countriestask.csproj|solutionrelative:countriestask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Softlaptop\\AppData\\Local\\Temp\\.vsdbgsrc\\73600191369a47dd8831923f40b2374a3b4fd25ae7ecff0e65c9a7b525e716dd\\DefaultInterpolatedStringHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -42,10 +50,6 @@
       "RelativeMoniker": "D:0:0:{1498B664-11FA-4D01-9631-1CFF208DAD8D}|Countriestask\\Countriestask.csproj|solutionrelative:countriestask\\services\\backgroundservices\\temporalblockcountrycleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1498B664-11FA-4D01-9631-1CFF208DAD8D}|Countriestask\\Countriestask.csproj|c:\\users\\softlaptop\\desktop\\.net_projects\\countriestask\\countriestask\\repository\\blockcountriesrepo\\iblockedcountryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1498B664-11FA-4D01-9631-1CFF208DAD8D}|Countriestask\\Countriestask.csproj|solutionrelative:countriestask\\repository\\blockcountriesrepo\\iblockedcountryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1498B664-11FA-4D01-9631-1CFF208DAD8D}|Countriestask\\Countriestask.csproj|c:\\users\\softlaptop\\desktop\\.net_projects\\countriestask\\countriestask\\entities\\blockedattemptlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1498B664-11FA-4D01-9631-1CFF208DAD8D}|Countriestask\\Countriestask.csproj|solutionrelative:countriestask\\entities\\blockedattemptlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -69,7 +73,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 201,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -85,20 +89,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\Countriestask\\appsettings.json",
+              "RelativeDocumentMoniker": "Countriestask\\appsettings.json",
+              "ToolTip": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\Countriestask\\appsettings.json",
+              "RelativeToolTip": "Countriestask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-24T23:05:02.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "LogRepo.cs",
               "DocumentMoniker": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\Countriestask\\Repository\\logAttemptRepo\\LogRepo.cs",
               "RelativeDocumentMoniker": "Countriestask\\Repository\\logAttemptRepo\\LogRepo.cs",
               "ToolTip": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\Countriestask\\Repository\\logAttemptRepo\\LogRepo.cs*",
               "RelativeToolTip": "Countriestask\\Repository\\logAttemptRepo\\LogRepo.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-24T22:56:59.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "countrycodeResponse.cs",
               "DocumentMoniker": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\Countriestask\\Dtos\\countrycodeResponse.cs",
               "RelativeDocumentMoniker": "Countriestask\\Dtos\\countrycodeResponse.cs",
@@ -110,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "DefaultInterpolatedStringHandler.cs",
               "DocumentMoniker": "C:\\Users\\Softlaptop\\AppData\\Local\\Temp\\.vsdbgsrc\\73600191369a47dd8831923f40b2374a3b4fd25ae7ecff0e65c9a7b525e716dd\\DefaultInterpolatedStringHandler.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\73600191369a47dd8831923f40b2374a3b4fd25ae7ecff0e65c9a7b525e716dd\\DefaultInterpolatedStringHandler.cs",
@@ -123,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "CountriesController.cs",
               "DocumentMoniker": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\Countriestask\\Controllers\\CountriesController.cs",
               "RelativeDocumentMoniker": "Countriestask\\Controllers\\CountriesController.cs",
@@ -135,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "BlockCountryService.cs",
               "DocumentMoniker": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\Countriestask\\Services\\BlockCountry\\BlockCountryService.cs",
               "RelativeDocumentMoniker": "Countriestask\\Services\\BlockCountry\\BlockCountryService.cs",
@@ -154,19 +171,19 @@
               "RelativeDocumentMoniker": "Countriestask\\Repository\\Blockcountriesrepo\\BlockedCountryRepo.cs",
               "ToolTip": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\Countriestask\\Repository\\Blockcountriesrepo\\BlockedCountryRepo.cs*",
               "RelativeToolTip": "Countriestask\\Repository\\Blockcountriesrepo\\BlockedCountryRepo.cs*",
-              "ViewState": "AgIAAA4AAABAMzMzM1MwwA4AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAZmZmZmYhwDYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-24T15:24:33.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\Countriestask\\Program.cs",
               "RelativeDocumentMoniker": "Countriestask\\Program.cs",
-              "ToolTip": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\Countriestask\\Program.cs*",
-              "RelativeToolTip": "Countriestask\\Program.cs*",
+              "ToolTip": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\Countriestask\\Program.cs",
+              "RelativeToolTip": "Countriestask\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-24T15:42:46.835Z",
@@ -174,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "IBlockCountryService.cs",
               "DocumentMoniker": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\Countriestask\\Services\\BlockCountry\\IBlockCountryService.cs",
               "RelativeDocumentMoniker": "Countriestask\\Services\\BlockCountry\\IBlockCountryService.cs",
@@ -186,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "TemporalBlockCountryCleanupService.cs",
               "DocumentMoniker": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\Countriestask\\Services\\BackgroundServices\\TemporalBlockCountryCleanupService.cs",
               "RelativeDocumentMoniker": "Countriestask\\Services\\BackgroundServices\\TemporalBlockCountryCleanupService.cs",
@@ -199,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ILogRepo.cs",
               "DocumentMoniker": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\Countriestask\\Repository\\logAttemptRepo\\ILogRepo.cs",
               "RelativeDocumentMoniker": "Countriestask\\Repository\\logAttemptRepo\\ILogRepo.cs",
@@ -212,20 +229,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "IBlockedCountryRepo.cs",
               "DocumentMoniker": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\Countriestask\\Repository\\Blockcountriesrepo\\IBlockedCountryRepo.cs",
               "RelativeDocumentMoniker": "Countriestask\\Repository\\Blockcountriesrepo\\IBlockedCountryRepo.cs",
               "ToolTip": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\Countriestask\\Repository\\Blockcountriesrepo\\IBlockedCountryRepo.cs",
               "RelativeToolTip": "Countriestask\\Repository\\Blockcountriesrepo\\IBlockedCountryRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-24T15:25:30.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "BlockedAttemptLog.cs",
               "DocumentMoniker": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\Countriestask\\Entities\\BlockedAttemptLog.cs",
               "RelativeDocumentMoniker": "Countriestask\\Entities\\BlockedAttemptLog.cs",
@@ -237,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "PaginationRequest.cs",
               "DocumentMoniker": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\Countriestask\\Dtos\\PaginationRequest.cs",
               "RelativeDocumentMoniker": "Countriestask\\Dtos\\PaginationRequest.cs",
@@ -249,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "BlockCountryRequest.cs",
               "DocumentMoniker": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\Countriestask\\Dtos\\BlockCountryRequest.cs",
               "RelativeDocumentMoniker": "Countriestask\\Dtos\\BlockCountryRequest.cs",
@@ -261,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "LogsController.cs",
               "DocumentMoniker": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\Countriestask\\Controllers\\LogsController.cs",
               "RelativeDocumentMoniker": "Countriestask\\Controllers\\LogsController.cs",
