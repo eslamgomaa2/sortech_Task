@@ -1,4 +1,4 @@
-﻿namespace Countriestask.Repository
+﻿namespace Countriestask.Repository.Blockcountriesrepo
 {
     public interface IBlockedCountryRepo
     {

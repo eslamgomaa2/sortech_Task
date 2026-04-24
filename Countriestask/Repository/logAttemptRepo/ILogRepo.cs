@@ -1,6 +1,6 @@
 ﻿using Countriestask.Entities;
 
-namespace Countriestask.Repository
+namespace Countriestask.Repository.logAttemptRepo
 {
     public interface ILogRepo
     {

@@ -1,13 +1,13 @@
 ﻿using Countriestask.Entities;
+using Countriestask.Repository.logAttemptRepo;
 using System.Collections.Concurrent;
 
-namespace Countriestask.Repository
+namespace Countriestask.Repository.Blockcountriesrepo
 {
-    public class BlockedCountryRepo : IBlockedCountryRepo, ILogRepo
+    public class BlockedCountryRepo : IBlockedCountryRepo
     {
         private readonly ConcurrentDictionary<string, DateTime?> _blockedCountries ;
-        private readonly List<BlockedAttemptLog> _logs = new();
-        private readonly object _logLock = new();
+        
 
         public BlockedCountryRepo()
         {
@@ -64,28 +64,7 @@ namespace Countriestask.Repository
                 _blockedCountries.TryRemove(key, out _);
         }
 
-        public void AddLog(BlockedAttemptLog log)
-        {
-            lock (_logLock)
-            {
-                _logs.Add(log);
-            }
-        }
-
-        public List<BlockedAttemptLog> GetLogs(int page, int pageSize)
-        {
-            page = page < 1 ? 1 : page;
-            pageSize = pageSize < 1 ? 10 : pageSize;
-
-            lock (_logLock)
-            {
-                return _logs
-                    .OrderByDescending(l => l.Timestamp)
-                    .Skip((page - 1) * pageSize)
-                    .Take(pageSize)
-                    .ToList();
-            }
-        }
+      
     }
 }
 

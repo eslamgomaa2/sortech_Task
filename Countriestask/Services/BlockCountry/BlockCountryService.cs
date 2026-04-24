@@ -1,5 +1,6 @@
 ﻿using Countriestask.Entities;
-using Countriestask.Repository;
+using Countriestask.Repository.Blockcountriesrepo;
+using Countriestask.Repository.logAttemptRepo;
 using Microsoft.Extensions.Configuration;
 using System.Net.Http;
 using System.Text.Json;

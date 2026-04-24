@@ -1,4 +1,4 @@
-﻿using Countriestask.Repository;
+﻿using Countriestask.Repository.Blockcountriesrepo;
 
 namespace Countriestask.Services.BackgroundServices
 {

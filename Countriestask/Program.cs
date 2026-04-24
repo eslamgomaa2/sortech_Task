@@ -1,4 +1,5 @@
-using Countriestask.Repository;
+using Countriestask.Repository.Blockcountriesrepo;
+using Countriestask.Repository.logAttemptRepo;
 using Countriestask.Services.BlockCountry;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,7 +12,7 @@ builder.Services.AddHttpClient();
 builder.Services.AddControllers();
 builder.Services.AddSingleton<IBlockedCountryRepo, BlockedCountryRepo>();
 builder.Services.AddScoped<IBlockCountryService, BlockCountryService>();
-builder.Services.AddSingleton<ILogRepo, BlockedCountryRepo>();
+builder.Services.AddSingleton<ILogRepo,LogRepo>();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
