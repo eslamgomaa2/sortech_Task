@@ -1,0 +1,102 @@
+[
+  {
+    "ContainingType": "Countriestask.Controllers.CountriesController",
+    "Method": "BlockCountry",
+    "RelativePath": "api/Countries/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Countriestask.Dtos.BlockCountryRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Countriestask.Controllers.CountriesController",
+    "Method": "CheckBlock",
+    "RelativePath": "api/Countries/check-block",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Countriestask.Controllers.CountriesController",
+    "Method": "CheckIpBlockedAsync",
+    "RelativePath": "api/Countries/CheckIfIpBlocked",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ipAddress",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Countriestask.Controllers.CountriesController",
+    "Method": "UnblockCountry",
+    "RelativePath": "api/Countries/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "countryCode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Countriestask.Controllers.CountriesController",
+    "Method": "GetBlocked",
+    "RelativePath": "api/Countries/GetblockedCountries",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Countriestask.Controllers.LogsController",
+    "Method": "GetAttempts",
+    "RelativePath": "api/logs/all attempts ",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
