@@ -49,9 +49,9 @@ namespace Countriestask.Controllers
         }
 
         [HttpGet("check-block")]
-        public async Task<IActionResult> CheckBlock()
+        public async Task<IActionResult> GetMyCountryviaIP([FromBody]string ipAddress)
         {
-            var response = await _service.CheckIpBlockedAsync();
+            var response = await _service.GetCountryCodeAsync(ipAddress);
             return Ok(response);
         }
     }

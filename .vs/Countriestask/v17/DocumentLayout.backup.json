@@ -95,7 +95,7 @@
               "RelativeDocumentMoniker": "Countriestask\\appsettings.json",
               "ToolTip": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\Countriestask\\appsettings.json",
               "RelativeToolTip": "Countriestask\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-04-24T23:05:02.69Z",
               "EditorCaption": ""
@@ -106,12 +106,11 @@
               "Title": "LogRepo.cs",
               "DocumentMoniker": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\Countriestask\\Repository\\logAttemptRepo\\LogRepo.cs",
               "RelativeDocumentMoniker": "Countriestask\\Repository\\logAttemptRepo\\LogRepo.cs",
-              "ToolTip": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\Countriestask\\Repository\\logAttemptRepo\\LogRepo.cs*",
-              "RelativeToolTip": "Countriestask\\Repository\\logAttemptRepo\\LogRepo.cs*",
+              "ToolTip": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\Countriestask\\Repository\\logAttemptRepo\\LogRepo.cs",
+              "RelativeToolTip": "Countriestask\\Repository\\logAttemptRepo\\LogRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T22:56:59.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T22:56:59.158Z"
             },
             {
               "$type": "Document",
@@ -160,8 +159,7 @@
               "RelativeToolTip": "Countriestask\\Services\\BlockCountry\\BlockCountryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T15:28:33.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T15:28:33.599Z"
             },
             {
               "$type": "Document",
@@ -169,12 +167,11 @@
               "Title": "BlockedCountryRepo.cs",
               "DocumentMoniker": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\Countriestask\\Repository\\Blockcountriesrepo\\BlockedCountryRepo.cs",
               "RelativeDocumentMoniker": "Countriestask\\Repository\\Blockcountriesrepo\\BlockedCountryRepo.cs",
-              "ToolTip": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\Countriestask\\Repository\\Blockcountriesrepo\\BlockedCountryRepo.cs*",
-              "RelativeToolTip": "Countriestask\\Repository\\Blockcountriesrepo\\BlockedCountryRepo.cs*",
+              "ToolTip": "C:\\Users\\Softlaptop\\Desktop\\.net_projects\\Countriestask\\Countriestask\\Repository\\Blockcountriesrepo\\BlockedCountryRepo.cs",
+              "RelativeToolTip": "Countriestask\\Repository\\Blockcountriesrepo\\BlockedCountryRepo.cs",
               "ViewState": "AgIAAB8AAAAAZmZmZmYhwDYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T15:24:33.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T15:24:33.247Z"
             },
             {
               "$type": "Document",
@@ -186,8 +183,7 @@
               "RelativeToolTip": "Countriestask\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T15:42:46.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T15:42:46.835Z"
             },
             {
               "$type": "Document",
@@ -211,8 +207,7 @@
               "RelativeToolTip": "Countriestask\\Services\\BackgroundServices\\TemporalBlockCountryCleanupService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T15:27:24.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T15:27:24.527Z"
             },
             {
               "$type": "Document",
@@ -224,8 +219,7 @@
               "RelativeToolTip": "Countriestask\\Repository\\logAttemptRepo\\ILogRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T15:26:18.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T15:26:18.033Z"
             },
             {
               "$type": "Document",
@@ -237,8 +231,7 @@
               "RelativeToolTip": "Countriestask\\Repository\\Blockcountriesrepo\\IBlockedCountryRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T15:25:30.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T15:25:30.239Z"
             },
             {
               "$type": "Document",

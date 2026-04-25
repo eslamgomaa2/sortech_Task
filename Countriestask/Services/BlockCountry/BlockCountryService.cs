@@ -95,15 +95,14 @@ namespace Countriestask.Services.BlockCountry
             var countrycode = await GetCountryCodeAsync(ip);
 
             var isblocked = _blockStore.IsBlocked(countrycode);
-            if (isblocked)
-            {
+            
 
                 var log = new BlockedAttemptLog
                 {
                     IPAddress = ip,
                     Timestamp = DateTime.UtcNow,
                     CountryCode = countrycode,
-                    IsBlocked = _blockStore.IsBlocked(countrycode),
+                    IsBlocked = isblocked,
                     UserAgent = _httpContextAccessor.HttpContext?.Request.Headers["User-Agent"].ToString(),
 
 
@@ -111,8 +110,8 @@ namespace Countriestask.Services.BlockCountry
 
                 _logStore.AddLog(log);
                 return true;
-            }
-            return false;
+            
+           
         }
 
         public List<BlockedAttemptLog> GetBlockedAttempts(int page, int pageSize)

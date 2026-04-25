@@ -12,7 +12,7 @@ namespace Countriestask.Repository.Blockcountriesrepo
         public BlockedCountryRepo()
         {
             _blockedCountries = new ConcurrentDictionary<string, DateTime?>();
-            _logs = new List<BlockedAttemptLog>();
+            
         }
         public bool AddCountry(string countryCode, DateTime? expiresAt)
         {
